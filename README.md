@@ -1,0 +1,2 @@
+## Maps in Go Challenge
+In this challenge, we're exploring the usage of maps in Go. Your task is to create a map called `employeeSalaries` that maps employee names (strings) to their respective salaries (integers). Then, write code to add a few entries to the map and print out the salaries for each employee.
